@@ -41,7 +41,7 @@
 🔸 Um pequeno compilador feito em JavaScript para converter linguagem Lisp para C, utilizado para aprender melhor como os compiladores funcionam e reforçar o aprendizado, da qual eu retirei o código do link abaixo:
 
 <a align="center" href="https://github.com/jamiebuilds/the-super-tiny-compiler">
-    <img alt="Link do código do github" src="https://img.shields.io/static/v1?label=código&message=super-tiny-compiler&color=FFA500&style=for-the-badge&logo=github">
+    <img alt="Link do código do github" src="https://img.shields.io/static/v1?label=codigo&message=super-tiny-compiler&color=FFA500&style=for-the-badge&logo=github">
 </a>
 
 ---
