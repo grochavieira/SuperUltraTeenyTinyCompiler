@@ -1,0 +1,28 @@
+{
+  "name": "SuperUltraTeenyTinyCompiler",
+  "version": "1.0.0",
+  "description": "ultra pequeno compilador feito em JavaScript para converter linguagem Lisp para C.",
+  "main": "src/serer.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grochavieira/SuperUltraTeenyTinyCompiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grochavieira/SuperUltraTeenyTinyCompiler/issues"
+  },
+  "homepage": "https://github.com/grochavieira/SuperUltraTeenyTinyCompiler#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

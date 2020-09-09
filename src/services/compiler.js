@@ -270,24 +270,10 @@ function codeGenerator(node) {
   }
 }
 
-function compiler(input) {
-  let tokens = tokenizer(input);
-  let ast = parser(tokens);
-  let newAst = transformer(ast);
-  let output = codeGenerator(newAst);
-
-  return output;
-}
-
-let example = "(add 2 (subtract 4 2)) (multiply 2 2)";
-
-console.log(compiler(example));
-
 module.exports = {
   tokenizer,
   parser,
   traverser,
   transformer,
   codeGenerator,
-  compiler,
 };
