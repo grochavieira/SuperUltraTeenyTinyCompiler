@@ -51,9 +51,8 @@
 ## ⚙️ Funcionalidades
 
 - [x] A linguagem pode ser compilada inserindo:
-
   - [x] Um código de acordo com a linguagem lisp.
-
+  
 - [x] Os tokens gerados são apresentados.
 - [x] A árvore de sintaxe abstrata é mostrada.
 - [x] A nova árvore AST é mostrada.
