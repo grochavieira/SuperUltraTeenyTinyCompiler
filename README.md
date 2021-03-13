@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/SuperUltraTeenyTinyCompiler?color=%2304D361&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/super-ultra-teeny-tiny-compiler?color=%2304D361&style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/SuperUltraTeenyTinyCompiler?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/super-ultra-teeny-tiny-compiler?style=for-the-badge">
   
-  <a href="https://github.com/grochavieira/SuperUltraTeenyTinyCompiler/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/SuperUltraTeenyTinyCompiler?style=for-the-badge">
+  <a href="https://github.com/grochavieira/super-ultra-teeny-tiny-compiler/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/super-ultra-teeny-tiny-compiler?style=for-the-badge">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
@@ -89,10 +89,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grochavieira/SuperUltraTeenyTinyCompiler.git
+$ git clone https://github.com/grochavieira/super-ultra-teeny-tiny-compiler.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd SuperUltraTeenyTinyCompiler
+$ cd super-ultra-teeny-tiny-compiler
 
 # Vá para a pasta server
 $ cd server
@@ -112,10 +112,10 @@ $ npm start
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grochavieira/SuperUltraTeenyTinyCompiler.git
+$ git clone https://github.com/grochavieira/super-ultra-teeny-tiny-compiler.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd SuperUltraTeenyTinyCompiler
+$ cd super-ultra-teeny-tiny-compiler
 
 # Vá para a pasta da aplicação Front End
 $ cd web
@@ -140,14 +140,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[Axios](https://github.com/axios/axios)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/SuperUltraTeenyTinyCompiler/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/grochavieira/super-ultra-teeny-tiny-compiler/blob/master/web/package.json)
 
 #### **Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Express](https://expressjs.com/)**
 - **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/SuperUltraTeenyTinyCompiler/blob/master/server/package.json)
+> Veja o arquivo [package.json](https://github.com/grochavieira/super-ultra-teeny-tiny-compiler/blob/master/server/package.json)
 
 #### **Utilitários**
 
